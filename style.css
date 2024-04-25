@@ -4,13 +4,17 @@ p {
 color: royalblue;
 }
 h1 {
+    
     font-family: Lobster, cursive;
     font-size: 3em;
     text-align: center;
-      color:red
+      color:red;
 }
 body {
     background-color: black; /* Le fond de la page sera noir */
     color: white; /* Le texte de la page sera blanc */
     background-image: url(images/ciel.jpg);
+}
+.cacahouete {
+    color:blue;
 }
